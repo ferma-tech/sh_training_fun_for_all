@@ -1,3 +1,5 @@
+EDIT 2 delete deploy key
+
 EDIT FERMA # sh_training_fun_for_all
 this is a super coool training project 
 
